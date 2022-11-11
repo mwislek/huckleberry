@@ -10,11 +10,12 @@ body {
 }
 
 h1 {
-  font-size: 1.5rem;
+  font-size: 2rem;
+  margin-bottom: 3rem;
 }
 
 h2 {
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
 
 main {
@@ -22,6 +23,10 @@ main {
   border-top: 8px solid hsl(0deg, 0%, 60%);
   margin-bottom: 48px;
   margin-top: 48px;
+}
+
+p {
+
 }
 
 strong {
